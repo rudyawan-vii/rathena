@@ -9,3 +9,10 @@
  **/
 
 //ACMD_DEF(newcommand),
+
+
+/*==========================================
+ * @mapmoblist 
+ * added by Pudica
+ *------------------------------------------*/
+ACMD_DEF(mapmoblist),

@@ -69,6 +69,7 @@ Body:
       showdelay: true
       exp: true
       mobinfo: true
+      mapmoblist: true
       iteminfo: true
       whodrops: true
       servertime: true
